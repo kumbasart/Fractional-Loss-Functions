@@ -29,7 +29,7 @@ frameRate = 60;
 
 %% Select Loss Function
 % Choose one of the available loss functions by setting the following string.
-lossFunctionName = 'geman_mclure_loss'; % e.g., 'fractional_L2_loss'
+lossFunctionName = 'fractional_L2_loss'; % e.g., 'fractional_L2_loss'
 
 %% Generate Toy Dataset
 n = 50; 
