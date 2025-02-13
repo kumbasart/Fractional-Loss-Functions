@@ -39,6 +39,7 @@ Please contact kurucum@itu.edu.tr for inquiries. Thanks.
 - [NumPy](https://numpy.org/)
 - [scikit-learn](https://scikit-learn.org/stable/)
 - [PyTorch](https://pytorch.org/)
+- [Matplotlib](https://matplotlib.org/)
   
 ## Runing the code
 
