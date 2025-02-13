@@ -5,7 +5,7 @@ Adaptive and robust loss functions for regression tasks.
 
 This repository provides the official MATLAB and Python implementation of the following paper:
 
-> **When fractional calculus meets robust learning: Adaptive robust lossfunctions**
+> **When fractional calculus meets robust learning: Adaptive robust loss functions**
 >
 > Mert Can Kurucu, Müjde Güzelkaya, İbrahim Eksin, Tufan Kumbasar
 >
