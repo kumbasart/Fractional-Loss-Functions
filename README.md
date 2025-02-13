@@ -1,7 +1,7 @@
 # Fractional-Loss-Functions
 Adaptive and robust loss functions for regression tasks.
 
-![Fractional Loss Functions](Main_Figure.png)
+![Fractional Loss Functions](Main_figure.png)
 
 This repository provides the official MATLAB and Python implementation of the following paper:
 
