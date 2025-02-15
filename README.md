@@ -24,7 +24,7 @@ Please contact kurucum@itu.edu.tr for inquiries. Thanks.
   - Individual loss function files (e.g., L2, log-cosh, Cauchy, Geman-McClure, Welsch).
 
 - **Python Implementation:**  
-  - `example.ipynb` – A Jupyter Notebook demonstrating the PyTorch version.
+  - `Fractional Loss Functions Example.ipynb` – A Jupyter Notebook demonstrating the PyTorch version.
 
 ## Dependencies
 
@@ -49,14 +49,14 @@ For the PyTorch version, open the example.ipynb Jupyter Notebook and run the cel
 
 ## Please cite the following paper when using this code
 ```latex
-@article{kurucu2025,
- title = {When fractional calculus meets robust learning: Adaptive robust loss functions},
- journal = {Knowledge-Based Systems},
- pages = {1-13},
- year = {2025},
- issn = {.},
- doi = {.},
- url = {.},
- author = {Mert Can Kurucu, M\"ujde G\"uzelkaya, Ibrahim Eksin, Tufan Kumbasar},
+@article{kurucu_2025,
+  title = {When fractional calculus meets robust learning: Adaptive robust loss functions},
+  journal = {Knowledge-Based Systems},
+  pages = {113136},
+  year = {2025},
+  issn = {0950-7051},
+  doi = {https://doi.org/10.1016/j.knosys.2025.113136},
+  url = {https://www.sciencedirect.com/science/article/pii/S0950705125001832},
+  author = {Mert Can Kurucu and Müjde Güzelkaya and Ibrahim Eksin and Tufan Kumbasar},
 }
 ```
